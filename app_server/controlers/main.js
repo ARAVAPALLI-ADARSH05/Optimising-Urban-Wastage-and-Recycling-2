@@ -2,6 +2,6 @@
 
 const index=(req, res) => {
 
-res.render('index', { title: 'Optimising urban wastage and recyling' });
+res.render('index', { title: 'Citizen Empowerment' });
 };
 module.exports = {index};
